@@ -1,0 +1,5 @@
+#pragma once
+
+enum class PLANTTYPE {
+	BASIC, DECORATION, UTILITY, UNDEFINED
+};
